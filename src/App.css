@@ -93,23 +93,20 @@ main {
 }
 
 .brand {
-  width: 260px;
+  width: 180px;
   height: 68px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  flex: 0 0 260px;
+  flex: 0 0 180px;
   overflow: hidden;
 }
 
 .brand img {
   display: block;
-  width: 180px;
-  max-width: none;
-  margin-left: 50px;
-  margin-top: 30px;
-  height: auto;
-  transform: translateX(-82px) translateY(-2px);
+  width: 125px;
+  height: 64px;
+  margin: 0;
   object-fit: contain;
 }
 
@@ -2465,7 +2462,8 @@ main {
   }
 
   .brand img {
-    width: 160px;
+    width: 125px;
+    height: 64px;
     margin: 0;
     transform: none;
   }
@@ -2946,7 +2944,8 @@ main {
   }
 
   .brand img {
-    width: 140px;
+    width: 115px;
+    height: 60px;
   }
 
   .desktop-nav {

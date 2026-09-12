@@ -34,7 +34,7 @@ import {
 import './App.css'
 import agilanImage from './assets/Agilan-image.jpeg'
 import heroBgImage from './assets/image.png'
-import bitbyteLogo from './assets/BB-Logo.png'
+import bitbyteLogo from './assets/BB-Logo-Cropped.png'
 
 const navItems = ['Home', 'About', 'Services', 'Contact', 'Appointment']
 
